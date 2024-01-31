@@ -1,0 +1,2 @@
+# Kasztan
+moj pierwszy git
